@@ -5,4 +5,4 @@ NeuroStartUp — динамически развивающийся старта�
 Высокая скорость поиска
 Низкая цена
 
-https://github.com/netology-ds-team/git-homeworks/blob/main/1_self/logo.png?raw=true 
+[логотип компании](https://github.com/netology-ds-team/git-homeworks/blob/main/1_self/logo.png?raw=true)
